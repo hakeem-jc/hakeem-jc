@@ -1,8 +1,7 @@
 <!-- Intro  -->
 
-<h3 align="center" >
-      &lt;  <b>Hakeem Clarke</b> /&gt;
-</h3>
+
+<h1 align="center" id="title"> Hakeem Clarke</h1>
 
 
 <p align="center"> 
@@ -19,7 +18,7 @@
 <br />
 
 <!-- About Section -->
- # About me
+ ## About me
  I'm a full-stack software developer with 5+ years of experience in core JavaScript, TypeScript, React, Redux (and Redux Toolkit), Formik, Next.js, and Spring Boot along with a range of libraries in the Node.js / React ecosystem. I primarily specialize in front-end JavaScript development, but I'm also well-versed in UI/UX design, back-end development in Next.js and Spring Boot, and database management with SQL or MongoDB when needed.
  
 <br/>
