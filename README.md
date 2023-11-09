@@ -1,17 +1,14 @@
 <!-- Intro  -->
-<h3 align="center">
-        <samp>&gt; Hey There!, I'm
-                <b><a target="_blank" href="">Hakeem Clarke</a></b>
-        </samp>
+
+<h3 align="center" >
+      &lt;  <b>Hakeem Clarke</b> /&gt;
 </h3>
 
 
 <p align="center"> 
-  <samp>
-    Senior Software Developer | JavaScript/TypeScript - React - Next.JS
+    Senior Software Developer | JavaScript/TypeScript - React/Next.JS
     <br>
    「 Based in <b>Kingston, Jamaica</b> 」
-  </samp>
 </p>
 
 <p align="center">
@@ -25,8 +22,6 @@
  # About me
  I'm a full-stack software developer with 5+ years of experience in core JavaScript, TypeScript, React, Redux (and Redux Toolkit), Formik, Next.js, and Spring Boot along with a range of libraries in the Node.js / React ecosystem. I primarily specialize in front-end JavaScript development, but I'm also well-versed in UI/UX design, back-end development in Next.js and Spring Boot, and database management with SQL or MongoDB when needed.
  
-<br/>
-<br/>
 <br/>
 
 ## Skills
@@ -56,15 +51,9 @@
   <a href="https://github.com/hakeem-jc?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
-<br/>
+<br/>Senior Software Developer | JavaScript/TypeScript - React/Next.JS
 <hr/>
 <br/>
-
-<p align="center">
-  <a href="https://github.com/hakeem-jc">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hakeem-jc&theme=github-dark-blue&border=4E9FE5&background=0D1117" alt="Hakeem's GitHub streak"/>
-  </a>
-</p>
 
 <p align="center">
   <a href="https://github.com/hakeem-jc">
